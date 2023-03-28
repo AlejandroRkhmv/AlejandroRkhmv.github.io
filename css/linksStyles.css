@@ -1,32 +1,4 @@
 
-
-@media screen and (max-width: 400px)
-.active {
-    width: 100%;
-}
-/* ----------------------------------------------------- */
-
-.links {
-    position: relative;
-    text-align: center;
-    margin-top: 20px;
-    padding: 20px;
-    border:  solid white;
-    border-width: 1px;
-    width: 250px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    border-radius: 12px;
-    font-size: 15px;
-}
-
-.linksGroup {
-  webkit margin-right: 20px;
-}
-
-/* ----------------------------------------------------- */
-
 /* --------------GITHUB--------------------------------------- */
 
 .links-github {
@@ -40,7 +12,6 @@
   display: block;
   margin-left: auto;
   margin-right: auto;
-  webkit margin-right: 20;
   border-radius: 8px;
   font-size: 15px;
 }
@@ -55,7 +26,6 @@
   display: block;
   margin-left: auto;
   margin-right: auto;
-  webkit margin-right: 20;
   border-radius: 8px;
   font-size: 15px;
   color: white;
@@ -243,3 +213,25 @@ Safari 7+ */
   color: white;
 }
 /* --------------APP--------------------------------------- */
+
+@media only screen and (max-width: 440px) {
+  
+  .links-github {
+    border: none;
+  }
+  .links-telegram {
+    border: none;
+  }
+  .links-twitter {
+    border: none;
+  }
+  .links-mail {
+    border: none;
+  }
+  .links-linkedin {
+    border: none;
+  }
+  .links-app {
+    border: none;
+  }
+}
