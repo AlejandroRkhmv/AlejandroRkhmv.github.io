@@ -69,9 +69,10 @@
   text-align: center;
   margin-top: 20px;
   padding: 20px;
-  background: #63B5EF;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to right, #fff, #63B5EF);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to right, #fff, #63B5EF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: #63B5EF;
+background: -webkit-linear-gradient(to right, #fff, #63B5EF);
+background: linear-gradient(to right, #fff, #63B5EF);
+Safari 7+ */
 
 
   width: 250px;
@@ -106,8 +107,9 @@ background: linear-gradient(to right, #fff, #63B5EF); /* W3C, IE 10+/ Edge, Fire
   margin-top: 20px;
   padding: 20px;
   background: #00B4DB;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #0083B0, #00B4DB);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #0083B0, #00B4DB); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: -webkit-linear-gradient(to right, #0083B0, #00B4DB);
+  background: linear-gradient(to right, #0083B0, #00B4DB);
+  Safari 7+ */
 
   width: 250px;
   display: block;
@@ -140,7 +142,7 @@ background: linear-gradient(to right, #fff, #63B5EF); /* W3C, IE 10+/ Edge, Fire
   text-align: center;
   margin-top: 20px;
   padding: 20px;
-  background: #0072AC;  /* fallback for old browsers */
+  background: #0072AC;
 
   width: 250px;
   display: block;
@@ -174,7 +176,7 @@ background: linear-gradient(to right, #fff, #63B5EF); /* W3C, IE 10+/ Edge, Fire
   text-align: center;
   margin-top: 20px;
   padding: 20px;
-  background: #005600;  /* fallback for old browsers */
+  background: #005600;
  
   width: 250px;
   display: block;
@@ -206,7 +208,7 @@ background: linear-gradient(to right, #fff, #63B5EF); /* W3C, IE 10+/ Edge, Fire
   text-align: center;
   margin-top: 20px;
   padding: 20px;
-  background: #58A7E9;  /* fallback for old browsers */
+  background: #58A7E9;
  
   width: 250px;
   display: block;

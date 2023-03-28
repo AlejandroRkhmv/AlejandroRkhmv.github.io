@@ -1,9 +1,9 @@
 // typing text animation script
   var typed = new Typed(".whoAmI", {
-      strings: ["Husband", "Father", "iOS Developer", "Skydiver", "Fly Navigator","QA Engineer"],
+      strings: ["Husband", "Father", "Skydiver", "Air Navigator","QA Engineer", "iOS Developer"],
       typeSpeed: 100,
       backSpeed: 60,
-      cursorChar: ' _',
+      cursorChar: '_',
       smartBackspace: true,
-      loop: true
+      loop: false
   });
