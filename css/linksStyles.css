@@ -249,6 +249,9 @@ Safari 7+ */
 
 @media only screen and (max-width: 440px) {
   
+  .cv {
+    border: none;
+  }
   .links-github {
     border: none;
   }
